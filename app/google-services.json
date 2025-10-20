@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839332337699",
+    "project_id": "fcmpushnotificationshttp-7905a",
+    "storage_bucket": "fcmpushnotificationshttp-7905a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839332337699:android:c4dfa801df3fac48d1b996",
+        "android_client_info": {
+          "package_name": "com.example.FcmPushNotificationsHttpV1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbexL8WJ9nvwyEFEaH8Tyaz6-sm4lZ1aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

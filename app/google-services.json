@@ -23,6 +23,25 @@
           "other_platform_oauth_client": []
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839332337699:android:b34c0541e16cdd4fd1b996",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushnotificationshttpv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbexL8WJ9nvwyEFEaH8Tyaz6-sm4lZ1aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
     }
   ],
   "configuration_version": "1"

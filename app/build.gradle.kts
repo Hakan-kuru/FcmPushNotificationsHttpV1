@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.fcmpushnotificationshttpv1"
+    namespace = "com.example.fcmPushnotificationshttpv1"
     compileSdk = 35
 
     defaultConfig {

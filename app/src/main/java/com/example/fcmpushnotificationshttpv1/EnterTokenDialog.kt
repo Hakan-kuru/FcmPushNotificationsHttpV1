@@ -86,11 +86,11 @@ fun EnterTokenDialog(
                 ) {
                     Text("copy token")
                 }
-            }
-            Button(
-                onClick =onSubmit
-            ){
-                Text("Submit")
+                Button(
+                    onClick =onSubmit
+                ){
+                    Text("Submit")
+                }
             }
         }
     }

@@ -7,8 +7,6 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.fcmpushnotificationshttpv1.ui.theme.NotificationBody
-import com.example.fcmpushnotificationshttpv1.ui.theme.SendMessageDto
 import kotlinx.coroutines.launch
 import retrofit2.HttpException
 import retrofit2.Retrofit

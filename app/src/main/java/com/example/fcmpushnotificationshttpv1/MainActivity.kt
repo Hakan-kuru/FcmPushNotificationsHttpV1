@@ -64,7 +64,7 @@ fun MainScreen(viewModel: ChatViewModel) {
     } else {
         ChatScreen(
             messageText = state.messageText,
-            onMessageSend = { viewModel.sendMessage(isBroadcast = true) },
+            onMessageSend = { viewModel.sendMessage(isBroadcast = false) },
             onMessageBroadcast = { viewModel.sendMessage(isBroadcast = true) },
             onMessageChange = viewModel::onMessageChange,
         )

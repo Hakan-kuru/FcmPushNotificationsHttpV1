@@ -42,6 +42,7 @@ android {
 
 dependencies {
 
+    // Ktor projenizdeki build.gradle.kts dosyasına ekleyin (dependencies bloğuna)
     implementation(platform("com.google.firebase:firebase-bom:32.7.1"))
     implementation(libs.firebase.messaging)
     implementation(libs.retrofit)
